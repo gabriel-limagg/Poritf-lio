@@ -7,7 +7,7 @@ export default function Inicio() {
   return (
     <div>
         <Navbar/>
-        <div className='pl-40 flex justify-between w-0 items-center '>
+        <div className='flex  '>
       <section id="introduction">
         <Introduction />
       </section>

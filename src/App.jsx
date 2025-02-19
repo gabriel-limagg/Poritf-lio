@@ -9,15 +9,15 @@ import Inicio from './Components/Inicio';
 
 function App() {
   return (
-    <div className="fixed bg-gray-100 h-screen w-screen">
+    <div className="fixed h-screen w-screen">
       
       <Inicio/>
       
       <section id="about">
-        <About />
+        
       </section>
       <section id="projects">
-        <Projects />
+     
       </section>
     </div>
   );
